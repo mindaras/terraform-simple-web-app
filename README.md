@@ -1,5 +1,7 @@
 # Terraform setup
 
+A web app running 2 EC2 Nginx instances with a Load Balancer in front with access logging to S3 bucket.
+
 ## Prerequisites
 
 _Export AWS keys as environment variables_
